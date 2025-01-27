@@ -13,7 +13,7 @@ Future updates will add more management features.
 - Simple and easy-to-use interface.
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/FinnAppel/Pterodactyl-Update-Script/main/update.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/FinnAppel/Pterodactyl-Configurator/refs/heads/main/configurator.sh | sudo bash
 ```
 _Note: On some systems, it's required to be already logged in as root before executing the one-line command (where `sudo` is in front of the command does not work)._
 
