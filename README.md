@@ -21,7 +21,6 @@ _Note: On some systems, it's required to be already logged in as root before exe
 
 - **Wings Updater**: Automatically update the Wings daemon.
 - **Panel Updater**: Simplify the process of updating the Pterodactyl panel.
-- **Configuration Backup**: Backup your panel's configuration before making changes.
 - **Maintenance Mode Toggle**: Enable or disable maintenance mode for the panel.
 - And more...
 
