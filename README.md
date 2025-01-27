@@ -32,5 +32,3 @@ _Note: On some systems, it's required to be already logged in as root before exe
 | Ubuntu       | 22.04, 24.04       | ✅ Supported |
 | Debian       | None               | :x: Unsupported  |
 | CentOS       | None               | :x: Unsupported  |
-
-\
